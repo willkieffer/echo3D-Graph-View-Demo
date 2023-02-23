@@ -11,10 +11,10 @@ using System.Collections;
 
 public class Echo3DHologram : MonoBehaviour
 {
-    private string secKey = "2Bff4N8JXw4YCQIxrp7VMaAz";
+    private string secKey = "YOUR SECRET KEY";
     // Your echo3D API key
     [Tooltip("Required - echo3D project API key. Exmaple: 'some-word-1234'")]
-    public string apiKey = "sparkling-rice-7680";
+    public string apiKey = "YOUR API KEY";
 
 	[Tooltip("Entry IDs separated by comma without spaces. (Optional)")]
     public string entries = "";
