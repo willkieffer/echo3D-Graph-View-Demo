@@ -22,4 +22,4 @@ Create a simple 3D mathematical function AR viewing application using the echo3D
 
 ## Notes
 
-The takeaway from this project is to learn the fundamentals of creating and and adding interactions to an AR app, as well as learning how to apply a shader and material to an echo3D Hologram (it is difficult becuase the prefabs are reloaded at build and will not maintain any applied renderers). View the script "Set Materials of Child" to see the solution for this.  
+The takeaway from this project is to learn the fundamentals of creating and adding interactions to an AR app, as well as learning how to apply a shader and material to an echo3D Hologram (it is difficult becuase the prefabs are reloaded at build and will not maintain any applied renderers). View the script "Set Materials of Child" to see the solution for this.  
