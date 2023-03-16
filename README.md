@@ -1,4 +1,4 @@
-# echo3D-Graph-View-Demo
+# [echo3D-Graph-View-Demo](https://github.com/willkieffer/echo3D-Graph-View-Demo)
  
 Create a simple 3D mathematical function AR viewing application using the echo3D cloud platform. Uses a shader on unpainted function assets and allows for simple manipulation.
 
