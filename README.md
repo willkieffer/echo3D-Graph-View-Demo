@@ -17,8 +17,8 @@ Create a simple 3D mathematical function AR viewing application using the echo3D
 * Build and run the app on a compatible Android device!
 
 ## Media
-![Example Image](/Example%20Media/imageDemo.jpg)
-![Example Video](/Example%20Media/recordingDemo.gif)
+![Example Image](https://raw.githubusercontent.com/willkieffer/echo3D-Graph-View-Demo/main/Example%20Media/imageDemo.jpg)
+![Example Video](https://raw.githubusercontent.com/willkieffer/echo3D-Graph-View-Demo/main/Example%20Media/recordingDemo.gif)
 
 ## Notes
 
