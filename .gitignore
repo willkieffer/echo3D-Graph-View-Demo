@@ -3,3 +3,6 @@ Library/
 Temp/
 Logs/
 *DoNotShip/
+*ButDontShipItWithYourGame/
+#ignore because of passwords
+Unity Project Folder/Packages/co.echo3d.unity/Runtime/Echo3DHologram.cs
