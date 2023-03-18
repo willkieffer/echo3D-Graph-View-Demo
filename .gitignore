@@ -1,0 +1,4 @@
+# ignore all files in Temp and Library
+Library/
+Temp/
+Logs/
