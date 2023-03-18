@@ -14,7 +14,7 @@ Create a simple 3D mathematical function AR viewing application using the echo3D
 * Clone "Unity Project Files" and open the scene "Final_20230222"
 * Replace the echo3D API Key and entry ID for each function and sign prefab with those found on the echo3D console
 * Adjust scale and rotation as necessary by adding keys and values for each asset using the "Data" tab on the echo3D console
-* Build and run the app on a compatible Android device!
+* Build and run the app on a compatible Android device! (ensure you are using the appropriate build settings for ARCore on Andriod)
 
 ## Media
 ![Example Image](https://raw.githubusercontent.com/willkieffer/echo3D-Graph-View-Demo/main/Example%20Media/imageDemo.jpg)
